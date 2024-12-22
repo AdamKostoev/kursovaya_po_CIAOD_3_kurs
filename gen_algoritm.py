@@ -213,3 +213,4 @@ optimized_schedule = generate_random_schedule()
 
 # Отображение расписания
 display_schedule_gui(optimized_schedule)
+
